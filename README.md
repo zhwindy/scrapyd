@@ -1,5 +1,5 @@
 ### scrapyd 说明
-scrapyd-docker for scrapy
+scrapyd-docker server for scrapy project
 
 ### build Dockerfile
 ```
